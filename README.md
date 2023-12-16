@@ -12,7 +12,7 @@ int main () {
 
 string nome = "Náthalie Patzer";
 int idade = 25;
-char país = 'BR';
+char país[2] = {'BR'};
 string linguagens[4] = {"C++", "C#", "Java", "Javascript"};
 bool html = true;
 bool css = true;
