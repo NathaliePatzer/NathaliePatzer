@@ -1,6 +1,7 @@
 ###   Hello, world! 😊
 
 💻 - Estudante de Ciência da Computação  <br/>
+🗂️ - 4º semestre  <br/>
 ❤️ - Apaixonada por tecnologia
 
 ```c++
@@ -17,6 +18,8 @@ bool html = true;
 bool css = true;
 
 coffee++;
+
+cout << "Eat, sleep, code, repeat!" << endl;
 
 }
 
