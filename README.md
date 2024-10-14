@@ -10,7 +10,7 @@ using namespace std;
 
 int main () {
 
-string nome = "Náthalie Patzer";
+string nome = "Náthalie L. Patzer";
 int idade = 26;
 char país[2] = {'B','R'};
 string linguagens[3] = {"C++", "C#", "Java"};
@@ -33,5 +33,5 @@ cout << "Eat, sleep, code, repeat!" << endl;
 <div>
 <a href = "mailto:nathalielaise@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/grey.wind_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/nathaliepatzer/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
