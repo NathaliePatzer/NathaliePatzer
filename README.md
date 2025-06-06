@@ -13,7 +13,7 @@ int main () {
 string nome = "Náthalie L. Patzer";
 int idade = 26;
 char país[2] = {'B','R'};
-string linguagens[3] = {"C++", "C#", "Java"};
+string linguagens[2] = {"C++", "C#"};
 bool html = true;
 bool css = true;
 
