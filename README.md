@@ -30,8 +30,6 @@ cout << "Eat, sleep, code, repeat!" << endl;
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliePatzer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/NathaliePatzer/NathaliePatzer/blob/output/github-contribution-grid-snake.svg)
-
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
