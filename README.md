@@ -1,7 +1,7 @@
 ###   Hello, world! 😊
 
 💻 - Estudante de Ciência da Computação  <br/>
-🗂️ - 7º semestre  <br/>
+🗂️ - 8º semestre  <br/>
 ❤️ - Apaixonada por tecnologia
 
 ```c++
