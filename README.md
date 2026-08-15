@@ -1,7 +1,6 @@
 ###   Hello, world! 😊
 
-💻 - Estudante de Ciência da Computação  <br/>
-🗂️ - 8º semestre  <br/>
+💻 - Bacharela em Ciência da Computação  <br/>
 ❤️ - Apaixonada por tecnologia
 
 ```c++
@@ -11,11 +10,11 @@ using namespace std;
 int main () {
 
 string nome = "Náthalie L. Patzer";
-int idade = 26;
 char país[2] = {'B','R'};
-string linguagens[2] = {"C++", "C#"};
+string linguagens[3] = {"C++", "C#", "PHP"};
 bool html = true;
 bool css = true;
+bool unity = true;
 
 coffee++;
 
